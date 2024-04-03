@@ -72,8 +72,8 @@ public enum Language {
   TYPESCRIPT,
   PYTHON,
   PHP,
-  C#,
-  C++
+  RUBIK,
+  GO
 
 }
 ```
