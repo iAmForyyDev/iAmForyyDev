@@ -1,8 +1,8 @@
 ```java
-public class iAmForyyDev extends GitHubUser {
+public final class iAmForyyDev extends GitHubUser {
 
-  public iAmForyyDev(){
-    super("iAmForyyDev_", "Perú", 18);
+  public iAmForyyDev() {
+    super("iAmForyyDev_", "Perú", 20);
     
     this.addLanguage(Language.JAVA); 
     this.addLearningLanguage(
