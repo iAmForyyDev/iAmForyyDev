@@ -6,17 +6,13 @@ public final class iAmForyyDev extends GitHubUser {
     
     this.addLanguage(Language.JAVA); 
     this.addLearningLanguage(
-      Language.HTML
-      Language.CSS,
-      Language.JAVASCRIPT
+      Language.JAVASCRIPT,
+      Language.TYPESCRIPT
     );
     
     this.addExperience(
-      "Spigot API", 
-      "Configurator", 
-      "Setups Creator",
-      "Furious Studios",
-      "Furious Community"
+      "Spigot API",
+      "Paper API",
     );
   }
 }
