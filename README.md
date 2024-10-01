@@ -3,8 +3,13 @@ public final class iAmForyyDev extends GitHubUser {
 
   public iAmForyyDev() {
     super("iAmForyyDev_", "Perú", 20);
-    
-    this.addLanguage(Language.JAVA); 
+
+    // "Yep, I Love java"
+    this.addLanguage(
+      Language.JAVA,
+      Language.PYTHON
+    );
+ 
     this.addLearningLanguage(
       Language.JAVASCRIPT,
       Language.TYPESCRIPT
