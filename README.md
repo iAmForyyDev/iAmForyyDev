@@ -2,7 +2,7 @@
 public final class iAmForyyDev extends GitHubUser {
 
   public iAmForyyDev() {
-    super("iAmForyyDev_", "Perú", 20);
+    super("iAmForyyDev_", "Peru", 20);
 
     // "Yep, I Love java"
     this.addLanguage(
@@ -32,33 +32,21 @@ public abstract class GitHubUser {
   private final Set<Language> languages = new HashSet<>();
   private final Set<Language> learningLanguage = new HashSet<>(); // General Languages
 
-  public GitHubUser(
-      String username, 
-      String country, 
-      int age
-      
-  ) {
-  
+  public GitHubUser(String username, String country, int age) {
       this.name = username;
       this.country = country;
       this.age = age;
   }
 
-  public void addLanguage(
-      Language... language
-  ) {
+  public void addLanguage(Language... language) {
       this.languages.addAll(language);
   }
   
-  public void addExperience(
-      String... experience
-  ) {
+  public void addExperience(String... experience) {
       this.experiences.addAll(experience);
   }
   
-  public void addLearningLanguage(
-      Language... languages
-  ){
+  public void addLearningLanguage(Language... languages){
       this.learningLanguage.addAll(languages);
   } 
 }
