@@ -7,7 +7,8 @@ public final class iAmForyyDev extends GitHubUser {
     // "Yep, I Love java"
     this.addLanguage(
       Language.JAVA,
-      Language.PYTHON
+      Language.PYTHON,
+      Language.KOTLIN
     );
  
     this.addLearningLanguage(
