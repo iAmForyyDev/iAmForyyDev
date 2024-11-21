@@ -57,6 +57,7 @@ public enum Language {
   CSS,
   
   JAVA,
+  KOTLIN,
   JAVASCRIPT,
   TYPESCRIPT,
   PYTHON,
