@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F7F5&width=435&lines=I+transform+lines+of+code+into+innovative+solutions...+%F0%9F%A7%A0+(Yes%2C+I'm+a+Developer)" alt="Typing SVG" />
+I transform lines of code into innovative solutions... 🧠 (Yes, I'm Developer)
 </div>
 
 <br/>
