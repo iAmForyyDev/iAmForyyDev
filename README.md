@@ -12,6 +12,8 @@
   <img src="https://wakatime.com/badge/user/e40ea41b-c271-4eb0-8e9f-5cf831f68f0e.svg" alt="Total time coded since Apr 23 2022"/>
 </a>
 
+[![Leaderboard](https://img.shields.io/badge/wakaTime-Leaderboard-000000?logo=wakatime&logoColor=white)](https://wakatime.com/leaders?country_code=PE)
+
 </div>
 
 <br/>
@@ -21,7 +23,6 @@ I transform lines of code into innovative solutions... 🧠 (Yes, I'm Developer)
 </div>
 
 <br/>
-
 ---
 
 ## 👾 About me
